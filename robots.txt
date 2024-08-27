@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tersanta.github.io/sitemap.html.gz
+Sitemap: https://tersanta.github.io/app/sitemap.html.gz
+Sitemap: https://tersanta.github.io/assets/sitemap.html.gz
+Sitemap: https://tersanta.github.io/css/sitemap.html.gz
+Sitemap: https://tersanta.github.io/includes/sitemap.html.gz
+Sitemap: https://tersanta.github.io/item/sitemap.html.gz
+Sitemap: https://tersanta.github.io/src/sitemap.html.gz
